@@ -54,24 +54,6 @@ Here are some key areas I work with in Laravel:
 - Collaborated with developers globally on Vue.js component libraries.
 - Shared tutorials, snippets, and reusable components to help the community.
 - Actively learning and contributing to PHP standards and Laravel ecosystem tools.
-
----
-
-### 📊 GitHub Stats
-
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/irushikeshantala"><img alt="Rushikesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=irushikeshantala&show_icons=true&count_private=true&theme=react&hide_border=true"/></a>
-</details>
-
-<details>
-  <summary>⚡ Recent Activity</summary>
-  <br/>
-  <a href="https://github.com/irushikeshantala"><img alt="Rushikesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=irushikeshantala&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
-  <p><i>Note: This graph may not load if the service is down.</i></p>
-</details>
-
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's build something amazing together!</b> Feel free to connect and say hi 😊</em>
