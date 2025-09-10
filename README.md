@@ -28,7 +28,7 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a ><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Rushikesh-webito
+    <a ><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=irushikeshantala
 &show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -36,7 +36,7 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-<a ><img alt="RushikeshAntala's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rushikesh-webito
+<a ><img alt="RushikeshAntala's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=irushikeshantala
 &bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
   
@@ -44,14 +44,14 @@
 <details>
   <summary> 📊 This week I spent my time on</summary>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Rushikesh-webito&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=irushikeshantala&hide_title=true&hide_border=true&langs_count=5)
 </details>
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
 <!--   <a href='https://profile.codersrank.io/user/Rushikesh-webito/'> -->
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=Rushikesh-webito&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=irushikeshantala&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 
 </details>
