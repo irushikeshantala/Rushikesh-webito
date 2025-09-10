@@ -19,7 +19,7 @@
 ### 🛠 Technologies & Tools
 
 <p align="left"> 
-  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35"/></a>&nbsp;
+  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/laravel.svg" alt="laravel" width="35" height="35"/></a>&nbsp;
   <a href="https://vuejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/></a>&nbsp;
@@ -43,6 +43,7 @@
   <summary>⚡ Recent Activity</summary>
   <br/>
   <a href="https://github.com/irushikeshantala"><img alt="Rushikesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=irushikeshantala&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
+  <p>Note: This graph may not load if the service is down.</p>
 </details>
 
 ---
