@@ -1,7 +1,7 @@
 <h1 align="center">Hello Developers 👋, I'm Rushikesh Antala</h1>
 <h3 align="center">A passionate Laravel Developer from India</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self-taught%20Laravel%20and%20VueJs%20Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self%20taught%20Laravel%20and%20VueJs%20Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
