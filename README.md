@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **rushikesh.antala@webitoinfotech.com**
+- 📫 How to reach me **rushikeshantala001@gmail.com**
 
 - ⚡ Fun fact **I think i am crazy....**
 
