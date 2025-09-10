@@ -38,7 +38,7 @@ Here are some key areas I work with in Laravel:
   <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/laravel.svg" alt="laravel" width="35" height="35"/></a>&nbsp;
   <a href="https://vuejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></a>&nbsp;
-  <a href="https://getcomposer.org/" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/logo-mark.svg" alt="composer" width="35" height="35"/></a>&nbsp;
+  <a href="https://getcomposer.org/" target="_blank"><img src="https://getcomposer.org/img/logo-composer-transparent.png" alt="composer" width="35" height="35"/></a>&nbsp;
   <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="35" height="35"/></a>&nbsp;
   <a href="https://docker.com" target="_blank"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="35" height="35"/></a>&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="35" height="35"/></a>&nbsp;
